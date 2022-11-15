@@ -1,4 +1,4 @@
-# Microservices
+# Spring Cloud Microservices
 These projects are generated using https://start.spring.io/
 
 # Config
